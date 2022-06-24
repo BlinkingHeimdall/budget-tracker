@@ -4,9 +4,9 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 
 self.addEventListener('install', function (e) {
     const FILE_TO_CACHE = [
-        "./public/index.html",
-        "./public/css/style.css",
-        "./public/js/index.js"
+        "../public/index.html",
+        "../public/css/style.css",
+        "../public/js/index.js"
     ];
 
     e.waitUntil(
