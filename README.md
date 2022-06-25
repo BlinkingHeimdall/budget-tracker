@@ -1,6 +1,9 @@
 
 # Budget Tracker
 
+![image](https://user-images.githubusercontent.com/87791295/175782806-afd2b0ce-2529-4266-b1f9-f67bae89252c.png)
+
+
 
 
 
